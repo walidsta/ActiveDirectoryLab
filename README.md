@@ -1,4 +1,4 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1> - Active Diractory</h1>
 
  ### [YouTube Demonstration](https://youtu.be/nc9DzVj3VR8)
 
